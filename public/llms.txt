@@ -1,0 +1,105 @@
+# סטייל — Generative Engine Optimization Map
+
+> An online pet supplies store offering toys and essential products for a wide range of pets including cats, dogs, rabbits, hamsters, and other domestic animals. The store caters to pet owners who want to enrich their pets' lives with quality toys and accessories. The business covers a broad spectrum of pet care needs, positioning itself as a one-stop-shop for all pet-related products.
+
+---
+
+## Pages
+
+### בית
+https://-c876439c.zappy5.app
+חנות חיות אונליין עם מבחר ענק של צעצועים, אביזרים ומוצרים חיוניים לחתולים, כלבים, ארנבים ומכרסמים. אספקת חיות מחמד בזול לכל כיס. היכנסו עכשיו וגלו את השמחה!
+
+### עולמות חיות
+https://-c876439c.zappy5.app/pet-worlds
+צללו לעולמות תוכן ייעודיים לכל סוג חיית מחמד! טיפים, מוצרים מומלצים ואספקת חיות מחמד בהנחה לחתול, לכלב, לארנב ולמכרסם שלכם. כל מה שצריך במקום אחד.
+
+### אודות
+https://-c876439c.zappy5.app/about
+ב&#39;סטייל&#39; אנחנו מאמינים שלכל חיית מחמד מגיע הטוב ביותר. הכירו את החזון שלנו להנגשת אספקת חיות מחמד איכותית במחירי סיטונאות לכל בית בישראל. בואו להכיר אותנו מקרוב.
+
+### צור קשר
+https://-c876439c.zappy5.app/contact
+צריכים עזרה בבחירת אספקת חיות מחמד? רוצים המלצה אישית לצעצוע המושלם? צרו קשר עם הצוות המסור שלנו עוד היום. אנחנו כאן כדי להפוך את חוויית הקנייה שלכם לקלה ומהנה.
+
+### Products
+https://-c876439c.zappy5.app/products
+המוצרים שלנו - סטייל
+
+### Cart
+https://-c876439c.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-c876439c.zappy5.app/checkout
+תשלום
+
+### Login
+https://-c876439c.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-c876439c.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-c876439c.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-c876439c.zappy5.app/product/:slug
+פרטי המוצר - סטייל
+
+### Category
+https://-c876439c.zappy5.app/category/:slug
+מוצרים - סטייל
+
+### תודה - סטייל
+https://-c876439c.zappy5.app/thank-you
+סטייל - תודה - סטייל
+
+## Legal & Policy
+
+### Privacy Policy
+https://-c876439c.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-c876439c.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-c876439c.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About סטייל
+An online pet supplies store offering toys and essential products for a wide range of pets including cats, dogs, rabbits, hamsters, and other domestic animals. The store caters to pet owners who want to enrich their pets' lives with quality toys and accessories. The business covers a broad spectrum of pet care needs, positioning itself as a one-stop-shop for all pet-related products.
+
+## Target Audience
+- בעלי חיות מחמד - חתולים, כלבים, ארנבים, שפנים ועוד
+- בעלי חיות מחמד מגוונות
+- חובבי חיות מחמד
+- בעלי חיות מחמד ידידותיים לסביבה
+
+## Industry
+Pet Supplies & Accessories
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-c876439c.zappy5.app/sitemap.xml
+- Robots: https://-c876439c.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-c876439c.zappy5.app/llms-full.txt
+- Products (JSON): https://-c876439c.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-c876439c.zappy5.app/product-feed.xml
