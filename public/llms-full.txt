@@ -2,13 +2,13 @@
 
 An online pet supplies store offering toys and essential products for a wide range of pets including cats, dogs, rabbits, hamsters, and other domestic animals. The store caters to pet owners who want to enrich their pets' lives with quality toys and accessories. The business covers a broad spectrum of pet care needs, positioning itself as a one-stop-shop for all pet-related products.
 
-Source: https://-c876439c.zappy5.app
+Source: https://example.com
 
 ---
 
 ## גלה עולם של אספקת חיות מחמד במחירים שווים — סטייל
 
-URL: https://-c876439c.zappy5.app
+URL: https://example.com
 Description: חנות חיות אונליין עם מבחר ענק של צעצועים, אביזרים ומוצרים חיוניים לחתולים, כלבים, ארנבים ומכרסמים. אספקת חיות מחמד בזול לכל כיס. היכנסו עכשיו וגלו את השמחה!
 
 גלה עולם של אספקת חיות מחמד במחירים שווים — סטייל
@@ -582,7 +582,7 @@ Description: חנות חיות אונליין עם מבחר ענק של צעצו
 
 ## עולמות מושלמים לכל חיית מחמד — מבצעים מחכים לכם — סטייל
 
-URL: https://-c876439c.zappy5.app/pet-worlds
+URL: https://example.com/pet-worlds
 Description: צללו לעולמות תוכן ייעודיים לכל סוג חיית מחמד! טיפים, מוצרים מומלצים ואספקת חיות מחמד בהנחה לחתול, לכלב, לארנב ולמכרסם שלכם. כל מה שצריך במקום אחד.
 
 עולמות מושלמים לכל חיית מחמד — מבצעים מחכים לכם — סטייל
@@ -1047,7 +1047,7 @@ Description: צללו לעולמות תוכן ייעודיים לכל סוג ח�
 
 ## הסיפור שלנו: מעבר לאספקת חיות מחמד זולה — סטייל
 
-URL: https://-c876439c.zappy5.app/about
+URL: https://example.com/about
 Description: ב&#39;סטייל&#39; אנחנו מאמינים שלכל חיית מחמד מגיע הטוב ביותר. הכירו את החזון שלנו להנגשת אספקת חיות מחמד איכותית במחירי סיטונאות לכל בית בישראל. בואו להכיר אותנו מקרוב.
 
 הסיפור שלנו: מעבר לאספקת חיות מחמד זולה — סטייל
@@ -1431,7 +1431,7 @@ Description: ב&#39;סטייל&#39; אנחנו מאמינים שלכל חיית 
 
 ## דברו איתנו על כל מה שקשור לחיית המחמד שלכם — סטייל
 
-URL: https://-c876439c.zappy5.app/contact
+URL: https://example.com/contact
 Description: צריכים עזרה בבחירת אספקת חיות מחמד? רוצים המלצה אישית לצעצוע המושלם? צרו קשר עם הצוות המסור שלנו עוד היום. אנחנו כאן כדי להפוך את חוויית הקנייה שלכם לקלה ומהנה.
 
 דברו איתנו על כל מה שקשור לחיית המחמד שלכם — סטייל
@@ -1785,7 +1785,7 @@ Description: צריכים עזרה בבחירת אספקת חיות מחמד? ר
 
 ## מוצרים
 
-URL: https://-c876439c.zappy5.app/products
+URL: https://example.com/products
 Description: המוצרים שלנו - סטייל
 
 מוצרים - סטייל
@@ -2183,7 +2183,7 @@ Description: המוצרים שלנו - סטייל
 
 ## עגלת קניות
 
-URL: https://-c876439c.zappy5.app/cart
+URL: https://example.com/cart
 Description: עגלת הקניות שלך
 
 עגלת קניות - סטייל
@@ -2423,7 +2423,7 @@ Description: עגלת הקניות שלך
 
 ## תשלום
 
-URL: https://-c876439c.zappy5.app/checkout
+URL: https://example.com/checkout
 Description: תשלום
 
 תשלום - סטייל
@@ -2849,7 +2849,7 @@ Description: תשלום
 
 ## התחברות
 
-URL: https://-c876439c.zappy5.app/login
+URL: https://example.com/login
 Description: התחברות לקוחות
 
 התחברות - סטייל
@@ -3096,7 +3096,7 @@ Description: התחברות לקוחות
 
 ## החשבון שלי
 
-URL: https://-c876439c.zappy5.app/account
+URL: https://example.com/account
 Description: החשבון שלי
 
 החשבון שלי - סטייל
@@ -3498,7 +3498,7 @@ Description: החשבון שלי
 
 ## ההזמנה התקבלה!
 
-URL: https://-c876439c.zappy5.app/order-success
+URL: https://example.com/order-success
 Description: תודה על ההזמנה
 
 ההזמנה התקבלה! - סטייל
@@ -3762,7 +3762,7 @@ Description: תודה על ההזמנה
 
 ## מדיניות החזרות
 
-URL: https://-c876439c.zappy5.app/return-policy
+URL: https://example.com/return-policy
 Description: מדיניות החזרת מוצרים - זכויותיכם להחזרה והחלפה בהתאם לחוק
 
 מדיניות החזרות - סטייל
@@ -4055,7 +4055,7 @@ Description: מדיניות החזרת מוצרים - זכויותיכם להח�
 
 ## פרטי המוצר
 
-URL: https://-c876439c.zappy5.app/product/:slug
+URL: https://example.com/product/:slug
 Description: פרטי המוצר - סטייל
 
 פרטי המוצר - סטייל
@@ -4297,7 +4297,7 @@ Description: פרטי המוצר - סטייל
 
 ## מוצרים
 
-URL: https://-c876439c.zappy5.app/category/:slug
+URL: https://example.com/category/:slug
 Description: מוצרים - סטייל
 
 מוצרים - סטייל
@@ -4563,7 +4563,7 @@ Description: מוצרים - סטייל
 
 ## מדיניות פרטיות
 
-URL: https://-c876439c.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -4831,7 +4831,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-c876439c.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -5108,7 +5108,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-c876439c.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -5404,7 +5404,7 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## תודה - סטייל
 
-URL: https://-c876439c.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: סטייל - תודה - סטייל
 
 תודה - סטייל

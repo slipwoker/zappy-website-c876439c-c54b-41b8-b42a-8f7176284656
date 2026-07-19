@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://-c876439c.zappy5.app
+https://example.com
 חנות חיות אונליין עם מבחר ענק של צעצועים, אביזרים ומוצרים חיוניים לחתולים, כלבים, ארנבים ומכרסמים. אספקת חיות מחמד בזול לכל כיס. היכנסו עכשיו וגלו את השמחה!
 
 ### עולמות חיות
-https://-c876439c.zappy5.app/pet-worlds
+https://example.com/pet-worlds
 צללו לעולמות תוכן ייעודיים לכל סוג חיית מחמד! טיפים, מוצרים מומלצים ואספקת חיות מחמד בהנחה לחתול, לכלב, לארנב ולמכרסם שלכם. כל מה שצריך במקום אחד.
 
 ### אודות
-https://-c876439c.zappy5.app/about
+https://example.com/about
 ב&#39;סטייל&#39; אנחנו מאמינים שלכל חיית מחמד מגיע הטוב ביותר. הכירו את החזון שלנו להנגשת אספקת חיות מחמד איכותית במחירי סיטונאות לכל בית בישראל. בואו להכיר אותנו מקרוב.
 
 ### צור קשר
-https://-c876439c.zappy5.app/contact
+https://example.com/contact
 צריכים עזרה בבחירת אספקת חיות מחמד? רוצים המלצה אישית לצעצוע המושלם? צרו קשר עם הצוות המסור שלנו עוד היום. אנחנו כאן כדי להפוך את חוויית הקנייה שלכם לקלה ומהנה.
 
 ### Products
-https://-c876439c.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - סטייל
 
 ### Cart
-https://-c876439c.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-c876439c.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-c876439c.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-c876439c.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-c876439c.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-c876439c.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - סטייל
 
 ### Category
-https://-c876439c.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - סטייל
 
 ### תודה - סטייל
-https://-c876439c.zappy5.app/thank-you
+https://example.com/thank-you
 סטייל - תודה - סטייל
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-c876439c.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-c876439c.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-c876439c.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -98,8 +98,8 @@ Pet Supplies & Accessories
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-c876439c.zappy5.app/sitemap.xml
-- Robots: https://-c876439c.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-c876439c.zappy5.app/llms-full.txt
-- Products (JSON): https://-c876439c.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-c876439c.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
